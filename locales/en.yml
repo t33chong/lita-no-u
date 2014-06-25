@@ -1,0 +1,9 @@
+en:
+  lita:
+    handlers:
+      no_u:
+        help:
+            no_u_key: "no u"
+            no_u_value: "Receive the reply 'no u'"
+            u_key: "u"
+            u_value: "Receive the reply 'u'"
