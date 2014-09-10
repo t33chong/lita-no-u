@@ -5,9 +5,9 @@ module Lita
             help: {t("help.no_u_key") => t("help.no_u_value")})
       route(/^u$/i, :u, command: false,
             help: {t("help.u_key") => t("help.u_value")})
-      route(/^no thou$/i, :u, command: false,
+      route(/^no thou$/i, :no_thou, command: false,
             help: {t("help.no_thou_key") => t("help.no_thou_value")})
-      route(/^thou$/i, :u, command: false,
+      route(/^thou$/i, :thou, command: false,
             help: {t("help.thou_key") => t("help.thou_value")})
 
       def no_u(response)
