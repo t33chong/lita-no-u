@@ -7,3 +7,7 @@ en:
             no_u_value: "Receive the reply 'no u'"
             u_key: "u"
             u_value: "Receive the reply 'u'"
+            no_thou_key: "no thou"
+            no_thou_value: "Receive the reply 'no thou'"
+            thou_key: "thou"
+            thou_value: "Receive the reply 'thou'"
