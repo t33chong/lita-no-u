@@ -1,4 +1,5 @@
 # lita-no-u
+[![Build Status](https://travis-ci.org/tristaneuan/lita-no-u.svg?branch=master)](https://travis-ci.org/tristaneuan/lita-no-u)
 
 **lita-no-u** is a handler for [Lita](https://github.com/jimmycuadra/lita) that replies with 'no u'.
 
